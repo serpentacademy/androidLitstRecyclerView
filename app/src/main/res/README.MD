@@ -1,0 +1,1 @@
+<h2>by <a href="https://quantumcompass.xyz>Quantum Compass</a></h2>

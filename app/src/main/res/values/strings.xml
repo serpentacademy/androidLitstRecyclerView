@@ -1,0 +1,5 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">AndroidRecyclerView</string>
+    <string name="item_image_description">Item Image</string>
+</resources>
